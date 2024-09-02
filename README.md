@@ -15,12 +15,6 @@
 <a href="#">
 <img src="/images/catsleep.webp" alt="frog"/>
 </a>
-</div>
-
-
-
-
-
 
 
 # 💻 Tech Stack:
@@ -31,4 +25,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThagDev&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+
+
+
+
+
+
+
 
